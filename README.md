@@ -14,4 +14,4 @@ To simulate one of the duties that will be present in a first time developers jo
 - added title
 - ensured all links were responsive
 
-![](Module-1/02-Challenge/Develop/assets/images/screen-shot.png)
+<img src="Module-1/02-Challenge/Develop/assets/images/screen-shot.png"/>
