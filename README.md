@@ -6,9 +6,10 @@ To simulate one of the duties that will be present in a first time developers jo
 
 
 ### Refactoring Provided Codebase
+#### (tasks performed)
 - added semantic HTML elements
 - added title
 - added alt attribute when necesary
 - corrected attributes
-- dded title
+- added title
 - ensured all links were responsive
