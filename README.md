@@ -14,4 +14,4 @@ To simulate one of the duties that will be present in a first time developers jo
 - added title
 - ensured all links were responsive
 
-<img src="/images/screen-shot.png"/>
+![screen-shot](https://user-images.githubusercontent.com/38259586/154874628-647a9bdf-e0f1-4599-a724-0c2b7493ceda.png)
