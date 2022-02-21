@@ -1,6 +1,11 @@
 # Module-1
 Module 1 assignment
-## Refactoring Provided Codebase
+
+## Purpose of Assignment
+To simulate one of the duties that will be present in a first time developers job.
+
+
+### Refactoring Provided Codebase
 - added semantic HTML elements
 - added title
 - added alt attribute when necesary
